@@ -1,1 +1,2 @@
 - [5 Ways to Measure a Battery's Performance](https://youtu.be/IP7aUIJpp9o)
+- [Equipment for measuring and characterizing batteries](https://youtu.be/VpI86ZaJrHE)
